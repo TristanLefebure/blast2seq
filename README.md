@@ -1,3 +1,3 @@
 # blast2seq
-Based on pairwise alignment to a reference sequence, cut the sequences
-Conveniant to extract sequences to build an alignment or a curated database
+Based on pairwise alignment to a reference sequence (blast output), cut the sequences following the hit.
+Conveniant to extract sequences to start an alignment or a curated database for taxonomix assignment.
